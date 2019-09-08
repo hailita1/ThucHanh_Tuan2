@@ -1,0 +1,20 @@
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\bin\Debug\bai2ThucHanh.exe.config
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\bin\Debug\bai2ThucHanh.exe
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\bin\Debug\bai2ThucHanh.pdb
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.csprojAssemblyReference.cache
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.Form1.resources
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.Properties.Resources.resources
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.csproj.GenerateResource.cache
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.exe
+C:\Users\chopp\source\repos\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.pdb
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\bin\Debug\bai2ThucHanh.exe.config
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\bin\Debug\bai2ThucHanh.exe
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\bin\Debug\bai2ThucHanh.pdb
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.csprojAssemblyReference.cache
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.Form1.resources
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.Properties.Resources.resources
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.csproj.GenerateResource.cache
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.csproj.CoreCompileInputs.cache
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.exe
+C:\Users\haili\Downloads\Tai Lieu\Năm 3\C#\ThucHanh_Tuan2\bai2ThucHanh\bai2ThucHanh\obj\Debug\bai2ThucHanh.pdb
